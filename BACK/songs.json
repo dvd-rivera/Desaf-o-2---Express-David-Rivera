@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "titulo": "Despacito ",
+        "artista": "Luis Fonsi",
+        "tono": "B menor"
+    },
+    {
+        "id": 2,
+        "titulo": "Shape of You",
+        "artista": "Ed Sheeran",
+        "tono": "C# menor"
+    },
+    {
+        "id": 3,
+        "titulo": "Blinding Lights",
+        "artista": "The Weeknd",
+        "tono": "F# menor"
+    },
+    {
+        "id": "4",
+        "titulo": "Hola",
+        "artista": "Billie Ellis",
+        "tono": "G menor"
+    },
+    {
+        "id": 5,
+        "titulo": "Dance Monkey",
+        "artista": "Tones and I",
+        "tono": "F# menor"
+    }
+]
